@@ -12,6 +12,10 @@ AlgoWise is an open-source platform for learning data structures and algorithms 
 
 It is also a **framework**: a community can add one visualization at a time without touching layout, controls, the editor or the colour system.
 
+## Project overview
+
+AlgoWise turns an algorithm into a trace of small steps. Each step records which line of code is running, what the data looks like and a plain-English explanation. One shared renderer draws every step, so adding a visualization means writing an executor and describing its state, not building a new interface. See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the full picture.
+
 ## Screenshots
 
 ![AlgoWise home page: Binary Search with the highlighted Java line, the array and the step explanation](docs/images/home.png)
