@@ -39,3 +39,10 @@ These are illustrative examples of the workflow, not real repository history.
 ## Review checklist
 
 Follows the architecture, uses design tokens, has tests, was checked in the browser, updates docs, adds no unnecessary dependency.
+
+## Contributor notes
+
+- Work on a branch, never directly on `main`.
+- Keep each pull request small and focused on one change.
+- Mark a pull request as a draft while it is still in progress, and mark it ready for review when it is finished.
+- Link the issue it solves with `Closes #<number>` in the description.
