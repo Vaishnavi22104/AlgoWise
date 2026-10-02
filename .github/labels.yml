@@ -1,0 +1,13 @@
+- { name: "good first issue", color: "16a34a", description: "Small, well-scoped, great for a first PR" }
+- { name: "help wanted", color: "2563eb", description: "We would love a contributor for this" }
+- { name: "new visualization", color: "7c3aed", description: "Add a concept or algorithm" }
+- { name: "problem visualization", color: "7c3aed", description: "Add a problem walkthrough" }
+- { name: "ui/ux", color: "d97706", description: "Layout, polish, responsiveness" }
+- { name: "accessibility", color: "2563eb", description: "Keyboard, screen reader, contrast, motion" }
+- { name: "performance", color: "d97706", description: "Rendering and bundle size" }
+- { name: "documentation", color: "64748b", description: "Guides, comments, examples" }
+- { name: "bug", color: "dc2626", description: "Something is incorrect" }
+- { name: "enhancement", color: "2563eb", description: "Improve something that exists" }
+- { name: "discussion", color: "64748b", description: "Ideas and design questions" }
+- { name: "algorithm", color: "7c3aed", description: "Executor or trace logic" }
+- { name: "testing", color: "16a34a", description: "Tests and validation" }
