@@ -95,6 +95,14 @@ AlgoWise is designed so that contributors do not need to understand the entire c
 
 Read [docs/ADDING-ALGORITHM.md](docs/ADDING-ALGORITHM.md), then [CONTRIBUTING.md](CONTRIBUTING.md). Look for issues labelled `good first issue`.
 
+**Not sure where to start?**
+- Fix a typo or an unclear sentence in the docs.
+- Add a missing test case to an existing `executor.test.ts`.
+- Improve an explanation in an algorithm's `metadata.ts`.
+- Run `npm run typecheck`, `npm run lint` and `npm run test` before opening your pull request.
+
+To claim an issue, leave a short comment on it so others know you are working on it.
+
 ## Roadmap
 
 1. **Foundation** (shipped): engine, core components, first algorithms and problems, My Learning with progress saved in the browser
