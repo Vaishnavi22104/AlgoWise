@@ -113,6 +113,3 @@ Version 1 never executes user-written code. To report a vulnerability privately,
 ## License
 
 [MIT](LICENSE)
-## Hacktoberfest
-
-Hacktoberfest contributions are welcome! Pick an issue labelled `good first issue` and open a pull request.
